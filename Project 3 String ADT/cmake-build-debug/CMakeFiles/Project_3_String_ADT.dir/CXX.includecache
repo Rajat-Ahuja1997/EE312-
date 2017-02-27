@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rajatahuja/Documents/Software Design/Project 3 String ADT/Project3.cpp
+assert.h
+-
+string.h
+-
+stdlib.h
+-
+String.h
+/Users/rajatahuja/Documents/Software Design/Project 3 String ADT/String.h
+stdio.h
+-
+
+/Users/rajatahuja/Documents/Software Design/Project 3 String ADT/String.h
+stdint.h
+-
+
+/Users/rajatahuja/Documents/Software Design/Project 3 String ADT/main.cpp
+stdio.h
+-
+string.h
+-
+String.h
+/Users/rajatahuja/Documents/Software Design/Project 3 String ADT/String.h
+
