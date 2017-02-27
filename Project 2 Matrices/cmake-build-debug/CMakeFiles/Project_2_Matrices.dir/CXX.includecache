@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rajatahuja/Documents/Software Design/Project 2 Matrices/MatrixMultiply.h
+
+/Users/rajatahuja/Documents/Software Design/Project 2 Matrices/Project2.cpp
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+MatrixMultiply.h
+/Users/rajatahuja/Documents/Software Design/Project 2 Matrices/MatrixMultiply.h
+
+/Users/rajatahuja/Documents/Software Design/Project 2 Matrices/main.cpp
+assert.h
+-
+math.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+MatrixMultiply.h
+/Users/rajatahuja/Documents/Software Design/Project 2 Matrices/MatrixMultiply.h
+
