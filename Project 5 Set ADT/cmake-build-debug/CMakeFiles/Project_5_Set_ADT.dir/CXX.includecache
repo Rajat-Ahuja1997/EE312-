@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rajatahuja/Documents/Software Design/Project 5 Set ADT/Project5.cpp
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+Set.h
+/Users/rajatahuja/Documents/Software Design/Project 5 Set ADT/Set.h
+
+/Users/rajatahuja/Documents/Software Design/Project 5 Set ADT/Set.h
+
+/Users/rajatahuja/Documents/Software Design/Project 5 Set ADT/main.cpp
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+assert.h
+-
+chrono
+-
+Set.h
+/Users/rajatahuja/Documents/Software Design/Project 5 Set ADT/Set.h
+

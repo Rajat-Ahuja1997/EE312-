@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/Invent.h
+MyString.h
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/MyString.h
+
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/MyString.cpp
+stdio.h
+-
+stdlib.h
+-
+MyString.h
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/MyString.h
+
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/MyString.h
+
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/Project4.cpp
+stdio.h
+-
+assert.h
+-
+stdint.h
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/stdint.h
+MyString.h
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/MyString.h
+Invent.h
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/Invent.h
+
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/main.cpp
+stdio.h
+-
+stdlib.h
+-
+MyString.h
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/MyString.h
+Invent.h
+/Users/rajatahuja/Documents/Software Design/Project 4 CRM/Invent.h
+

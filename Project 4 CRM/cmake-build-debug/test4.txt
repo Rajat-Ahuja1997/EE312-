@@ -1,0 +1,39 @@
+Inventory Bottles 100
+Inventory Rattles 50
+Inventory Diapers 200
+Purchase Troll1 Bottles -5
+Purchase Troll2 Diapers 0
+Summarize
+Purchase Billy Diapers 100
+Purchase Sue Diapers 50
+Inventory Bottles 10
+Purchase Sue Bottles 1
+Purchase Dan Bottles 2
+Inventory Diapers 10
+Summarize
+Purchase Sue Bottles 1
+Purchase Billy Diapers -100
+Purchase Dan Rattles 1
+Purchase Sue Rattles 2
+Purchase Dan Rattles 1
+Summarize
+Quit
+/** test4 Results should be: **/
+There are 100 Bottles, 200 Diapers and 50 Rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any Bottles
+no one has purchased any Diapers
+no one has purchased any Rattles
+There are 107 Bottles, 60 Diapers and 50 Rattles in inventory
+we have had a total of 3 different customers
+Dan has purchased the most Bottles (2)
+Billy has purchased the most Diapers (100)
+no one has purchased any Rattles
+There are 106 Bottles, 60 Diapers and 46 Rattles in inventory
+we have had a total of 3 different customers
+Sue has purchased the most Bottles (2)
+Billy has purchased the most Diapers (100)
+Sue has purchased the most Rattles (2)
+
+/********* end of test 4 *************/
+ 
